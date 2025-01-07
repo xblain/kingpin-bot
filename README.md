@@ -29,7 +29,29 @@ A discord economy but with GUI and controller by a single slash command, built o
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<div class="grid" markdown>
+
+![Registration](https://github.com/xblain/kingpin-bot/blob/main/readme-images/register.png){:height="50%" width="50%"}
+
+![Menu](https://github.com/xblain/kingpin-bot/blob/main/readme-images/menu.png){:height="50%" width="50%"}
+
+![Activities](https://github.com/xblain/kingpin-bot/blob/main/readme-images/activities.png){:height="50%" width="50%"}
+
+![Crib](https://github.com/xblain/kingpin-bot/blob/main/readme-images/crib.png){:height="50%" width="50%"}
+
+![Itemview](https://github.com/xblain/kingpin-bot/blob/main/readme-images/itemview.png){:height="50%" width="50%"}
+
+![Beg](https://github.com/xblain/kingpin-bot/blob/main/readme-images/beg.png){:height="50%" width="50%"}
+
+![Upgrade1](https://github.com/xblain/kingpin-bot/blob/main/readme-images/upgradeplant.png){:height="50%" width="50%"}
+
+![Upgrade2](https://github.com/xblain/kingpin-bot/blob/main/readme-images/upgradesafe.png){:height="50%" width="50%"}
+
+![Fishing](https://github.com/xblain/kingpin-bot/blob/main/readme-images/fishing.png){:height="50%" width="50%"}
+
+![Shop](https://github.com/xblain/kingpin-bot/blob/main/readme-images/shop.png){:height="50%" width="50%"}
+
+</div>
 
 
 ## Roadmap
