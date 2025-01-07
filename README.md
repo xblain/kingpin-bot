@@ -6,15 +6,13 @@
 
 A discord economy bot with GUI and controlled by a single slash command, created in Python, built on top of Hikari-Discord and Tanjun libraries
 
-- Very much WIP, this was a old project of mine which was a learning exercise for me to learn more about python, over time I've learned more and this repository is for me to update, optimize and improve my code from many years ago. Part of the functionality is also broken due to my abandoment of the project and not keeping backups of everything that was needed for the bot
-
+- Very much WIP, this was a old project of mine which was a learning exercise for me to learn more about Python, over time I've learned more and this repository is for me to update, optimize and improve my code from many years ago. Part of the functionality is also broken due to my abandoment of the project and not keeping backups of everything that was needed to keep the bot working
 
 ## Features
 
-- Web dashboard for database and server management
+- Web dashboard for database and server management (BROKEN)
 - Build and customize your own crib and view it easily within the Kingpin UI
 - Grow plants, rob other players and multiple other ways to generate income
-- Rob other players of their hard earned cash
 - Customize your own kingpin phone and show of your wealth to other people on Discord
 - Multiplayer fishing
 
@@ -38,7 +36,7 @@ A discord economy bot with GUI and controlled by a single slash command, created
 
 ## Roadmap
 
-- Fix database up to previous state
+- Fix and recreate database up to previous state
 
 - Move database code from psycopg2 to asyncpg for async functionality and better optimization
 
