@@ -4,7 +4,7 @@
 
 # Kingpin
 
-A discord economy bot with GUI and controlled by a single slash command, built on top of Hikari-Discord and Tanjun libraries
+A discord economy bot with GUI and controlled by a single slash command, created in Python, built on top of Hikari-Discord and Tanjun libraries
 
 - Very much WIP, this was a old project of mine which was a learning exercise for me to learn more about python, over time I've learned more and this repository is for me to update, optimize and improve my code from many years ago. Part of the functionality is also broken due to my abandoment of the project and not keeping backups of everything that was needed for the bot
 
