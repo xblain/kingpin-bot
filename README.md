@@ -52,6 +52,7 @@ A discord economy bot with GUI and controlled by a single slash command, created
 - In-game Job
 
 - Clean up webdashboard django views, html pages
+- Move processing of images to its own container
 
 ## Community
 
