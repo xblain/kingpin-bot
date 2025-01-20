@@ -10,7 +10,7 @@ A discord economy bot with GUI and controlled by a single slash command, created
 
 ## Features
 
-- Web dashboard for database and server management (BROKEN)
+- Web dashboard for database and server management
 - Build and customize your own crib and view it easily within the Kingpin UI
 - Grow plants, rob other players and multiple other ways to generate income
 - Customize your own kingpin phone and show of your wealth to other people on Discord
