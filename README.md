@@ -15,8 +15,7 @@ A discord economy bot with GUI and controlled by a single slash command, created
 - Grow plants, rob other players and multiple other ways to generate income
 - Customize your own kingpin phone and show of your wealth to other people on Discord
 - Multiplayer fishing
-
-- ~~Cross-server Economy~~
+- Cross-server Economy
 - ~~Customization per server~~
 
 
@@ -36,11 +35,11 @@ A discord economy bot with GUI and controlled by a single slash command, created
 
 ## Roadmap
 
+- Optimize phone component as it was built pretty sloppy
+
 - Fix and recreate database up to previous state
 
-- Move database code from psycopg2 to asyncpg for async functionality and better optimization
-
-- Optimize all code as a lot of it was built pretty sloppy
+- Move database code from psycopg2 to asyncpg for async functionality, better optimization and remove functions that do the same thing
 
 - Repair all functionality to previous state
   
