@@ -48,8 +48,8 @@ This project started as a learning exercise during the COVID-19 pandemic and has
 - [ ] Migrate from psycopg2 to asyncpg
 - [ ] Implement database connection pooling
 - [ ] Optimize and refactor database
-- [ ] Optimize image processing system
-- [ ] Implement Discord API and image caching
+- [ ] Optimize image generation system
+- [ ] Implement caching for Discord API and image generation
 
 🎮 **New Features**
 - [ ] Enhanced quest system
