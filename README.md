@@ -4,9 +4,10 @@
 
 # Kingpin
 
-A discord economy bot with GUI and controlled by a single slash command, created in Python, built on top of Hikari-Discord and Tanjun libraries
+A discord economy bot with GUI and controlled by a single slash command, created in Python, built on top of Hikari-Discord and Tanjun libraries. Database built with PostgreSQL, Dashboard built with Django with OAuth authentification
 
-- Very much WIP, this was a old project of mine which was a learning exercise for me to learn more about Python, over time I've learned more and this repository is for me to update, optimize and improve my code from many years ago. Part of the functionality is also broken due to my abandoment of the project and not keeping backups of everything that was needed to keep the bot working
+- Very much WIP, this was a old project of mine which was a learning exercise for me to learn more about Python, over time I've learned more and this repository is for me to update, optimize and improve my code from many years ago.
+- ~~Part of the functionality is also broken due to my abandoment of the project and not keeping backups of everything that was needed to keep the bot working~~ (Functionality that was lost has been fully restored and many improvements to UI have been implemented, currently I only need to implement the functionality that was in the text version of the bot such as enterprises activity, money safes, trading, etc, but optimization and code improvements have priority as of now before expanding current existing systems and creating new systems)
 
 ## Features
 
@@ -16,6 +17,7 @@ A discord economy bot with GUI and controlled by a single slash command, created
 - Customize your own kingpin phone and show of your wealth to other people on Discord
 - Multiplayer fishing
 - Cross-server Economy
+- Quest system
 - ~~Customization per server~~
 
 
@@ -34,25 +36,27 @@ A discord economy bot with GUI and controlled by a single slash command, created
 
 
 ## Roadmap
+Repairs and Optimizations:
 
-- Optimize phone component as it was built pretty sloppy
+- [x] Fix and recreate database up to previous state
+- [x] Repair all functionality to previous state
+- [ ] Optimize the main component (components/kingpin/phone.py) as it was built pretty sloppy. Currently this is progressing very well :+1:
+- [ ] Move database code from psycopg2 to asyncpg for async functionality. Optimize code, implement query batching and reduce similar functions.
+- [ ] Implement database connection pooling and ability to reconnect when connection lost
+- [ ] Optimize imageprocessing component and possibly seperate it from main project to split load
 
-- Fix and recreate database up to previous state
+Implement Systems:
 
-- Move database code from psycopg2 to asyncpg for async functionality, better optimization and remove functions that do the same thing
+- [ ] Expand on quest system
+- [ ] Combat equipment
+- [ ] Implement enterprises
+- [ ] In-game Job System
+- [ ] Implement a world for players to explore with possible territories (Turf Wars) to take over
 
-- Repair all functionality to previous state
-  
-- Combat Equipment
+Dashboard:
 
-- Implement Enterprises
+- [ ] Clean up webdashboard django views, html pages, templates
 
-- Implement a world for players to explore with possible territories to take over
-
-- In-game Job
-
-- Clean up webdashboard django views, html pages
-- Move processing of images to its own container
 
 ## Community
 
