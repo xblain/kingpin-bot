@@ -49,6 +49,7 @@ This project started as a learning exercise during the COVID-19 pandemic and has
 - [ ] Implement database connection pooling
 - [ ] Optimize and refactor database
 - [ ] Optimize image processing system
+- [ ] Implement Discord API and image caching
 
 🎮 **New Features**
 - [ ] Enhanced quest system
