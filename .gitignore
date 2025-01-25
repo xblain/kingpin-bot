@@ -4,6 +4,9 @@ images/
 #Config with secrets
 config.py
 
+#fonts
+fonts/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
