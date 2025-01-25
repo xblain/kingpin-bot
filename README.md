@@ -26,7 +26,7 @@ A feature-rich Discord economy bot with a modern GUI interface, controlled throu
 
 ## Project Status
 
-This project started as a learning exercise during the COVID-19 pandemic has evolved into a more comprehensive Discord bot. Currently undergoing major improvements and optimizations. Some functionality is still missing from the original text bot. Due to improper backup management in the past, all database functionality was lost but has since been fully remade with improved systems.
+This project started as a learning exercise during the COVID-19 pandemic and has evolved into a more comprehensive Discord bot. Currently undergoing major improvements and optimizations. Some functionality is still missing from the original text bot. Due to improper backup management in the past, all database functionality was lost but has since been fully remade with improved systems.
 
 ✅ **Recent Achievements**
 - Updated to Python 3.12+
