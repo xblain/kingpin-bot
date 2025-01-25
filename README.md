@@ -55,6 +55,7 @@ This project started as a learning exercise during the COVID-19 pandemic and has
 - [ ] Enhanced quest system
 - [ ] Implement per server customization (network name, currency emoji's, server specific items)
 - [ ] Custom emoji's
+- [ ] Improve user onboarding
 - [ ] Combat equipment system
 - [ ] Enterprise management
 - [ ] Job system
