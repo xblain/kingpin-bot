@@ -14,7 +14,7 @@ A feature-rich Discord economy bot with a modern GUI interface, controlled throu
 - Sleek GUI interface controlled by a single slash command
 - Personal "Kingpin Phone" interface for each user
 - Cross-server economy system
-- Web dashboard for administration
+- [Web dashboard for administration](https://github.com/xblain/kingbin-webui/tree/main)
 
 🏠 **Player Activities**
 - Build and customize your personal crib
