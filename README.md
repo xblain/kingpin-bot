@@ -53,7 +53,7 @@ This project started as a learning exercise during the COVID-19 pandemic and has
 
 🎮 **New Features**
 - [ ] Enhanced quest system
-- [ ] Implement per server customization (Network Name, Currency Emoji's, Server specific items)
+- [ ] Implement per server customization (network name, currency emoji's, server specific items)
 - [ ] Custom emoji's
 - [ ] Combat equipment system
 - [ ] Enterprise management
