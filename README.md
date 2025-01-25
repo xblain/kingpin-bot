@@ -26,7 +26,7 @@ A feature-rich Discord economy bot with a modern GUI interface, controlled throu
 
 ## Project Status
 
-This project started as a learning exercise and has evolved into a more comprehensive Discord bot. Currently undergoing major improvements and optimizations. Some functionality is still missing from the original text bot. Due to improper backup management in the past, some database functionality was temporarily lost but has since been fully restored with improved systems.
+This project started as a learning exercise during the COVID-19 pandemic and has evolved into a more comprehensive Discord bot. Currently undergoing major improvements and optimizations. Some functionality is still missing from the original text bot. Due to improper backup management in the past, all database functionality was lost but has since been fully remade with improved systems.
 
 ✅ **Recent Achievements**
 - Updated to Python 3.12+
@@ -44,16 +44,18 @@ This project started as a learning exercise and has evolved into a more comprehe
 ## Development Roadmap
 
 🔧 **Optimization Phase**
-- [ ] Refactor main component (components/kingpin/phone.py) (Progressing pretty well)
+- [ ] Streamline and optimize main phone component
 - [ ] Migrate from psycopg2 to asyncpg
 - [ ] Implement database connection pooling
 - [ ] Optimize and refactor database
-- [ ] Optimize image processing system
+- [ ] Optimize image generation system
+- [ ] Implement caching for Discord API and image generation
 
 🎮 **New Features**
 - [ ] Enhanced quest system
-- [ ] Implement per server customization (Network Name, Currency Emoji's, Server specific items)
+- [ ] Implement per server customization (network name, currency emoji's, server specific items)
 - [ ] Custom emoji's
+- [ ] Improve user onboarding
 - [ ] Combat equipment system
 - [ ] Enterprise management
 - [ ] Job system
