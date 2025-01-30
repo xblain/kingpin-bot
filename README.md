@@ -12,7 +12,7 @@ A feature-rich Discord economy bot with a modern GUI interface, controlled throu
 
 🎮 **User Experience**
 - Sleek GUI interface controlled by a single slash command
-- Personal "Kingpin Phone" interface for each user
+- Personal "Kingpin Phone" interface for each user with built-in notification system
 - Cross-server economy system
 - [Web dashboard for administration](https://github.com/xblain/kingbin-webui/tree/main)
 
